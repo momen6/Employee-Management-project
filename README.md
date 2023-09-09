@@ -14,13 +14,13 @@
 
 #### Home page
 
-<img src="1.png" alt="home" align="center">
+<img src="screenshots/1.png" alt="home" align="center">
 
 #### Add Employee Form
-<img src="2.png" alt="Add Employee Form" align="center">
+<img src="screenshots/2.png" alt="Add Employee Form" align="center">
 
 #### Show Employees
-<img src="3.png" alt="Show Employees" align="center">
+<img src="screenshots/3.png" alt="Show Employees" align="center">
 
 #### Edit Employee Form
-<img src="4.png" alt="Edit Employee Form" align="center">
+<img src="screenshots/4.png" alt="Edit Employee Form" align="center">
